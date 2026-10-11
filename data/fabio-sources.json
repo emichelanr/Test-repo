@@ -1,0 +1,112 @@
+{
+  "retrieved_on": "2026-10-11",
+  "fabio_source": "https://www.nomix.it/mappe-dei-nomi-italiani/FABIO",
+  "fabio_reference_date": null,
+  "fabio_methodology": "Published approximate estimates; methodology and reference date not stated on this page. Not an official resident-name census.",
+  "population_source": "https://www.istat.it/wp-content/uploads/2025/03/Tavole-indicatori-demografici.xlsx",
+  "population_reference_date": "2025-01-01",
+  "population_methodology": "Tabella 1, Totale (P), provisional population in thousands, multiplied by 1000. Rounded to 100 residents.",
+  "national_fabio_total": 160957,
+  "regions": [
+    {
+      "id": 1,
+      "fabio_count": 7123,
+      "population": 4255700
+    },
+    {
+      "id": 2,
+      "fabio_count": 227,
+      "population": 122700
+    },
+    {
+      "id": 3,
+      "fabio_count": 34446,
+      "population": 10035500
+    },
+    {
+      "id": 4,
+      "fabio_count": 4962,
+      "population": 1086100
+    },
+    {
+      "id": 5,
+      "fabio_count": 18178,
+      "population": 4851900
+    },
+    {
+      "id": 6,
+      "fabio_count": 4918,
+      "population": 1194100
+    },
+    {
+      "id": 7,
+      "fabio_count": 4045,
+      "population": 1509900
+    },
+    {
+      "id": 8,
+      "fabio_count": 14720,
+      "population": 4465700
+    },
+    {
+      "id": 9,
+      "fabio_count": 16718,
+      "population": 3660800
+    },
+    {
+      "id": 10,
+      "fabio_count": 3020,
+      "population": 852000
+    },
+    {
+      "id": 11,
+      "fabio_count": 6089,
+      "population": 1481300
+    },
+    {
+      "id": 12,
+      "fabio_count": 26303,
+      "population": 5710300
+    },
+    {
+      "id": 13,
+      "fabio_count": 2198,
+      "population": 1268400
+    },
+    {
+      "id": 14,
+      "fabio_count": 215,
+      "population": 288000
+    },
+    {
+      "id": 15,
+      "fabio_count": 4678,
+      "population": 5575000
+    },
+    {
+      "id": 16,
+      "fabio_count": 3555,
+      "population": 3874200
+    },
+    {
+      "id": 17,
+      "fabio_count": 134,
+      "population": 529900
+    },
+    {
+      "id": 18,
+      "fabio_count": 1275,
+      "population": 1832100
+    },
+    {
+      "id": 19,
+      "fabio_count": 6167,
+      "population": 4779400
+    },
+    {
+      "id": 20,
+      "fabio_count": 1986,
+      "population": 1561300
+    }
+  ]
+}
